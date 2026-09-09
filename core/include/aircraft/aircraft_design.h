@@ -1,10 +1,7 @@
 #pragma once
 
-namespace aircraft
-{
+namespace aircraft {
 
-struct AircraftDesign
-{
-};
+  struct AircraftDesign {};
 
-}
+} // namespace aircraft
