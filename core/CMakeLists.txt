@@ -3,6 +3,8 @@ add_library(aircraft_core
     src/configuration.cpp
     src/aircraft_design.cpp
     src/solver.cpp
+    src/mission.cpp
+    src/weight_sizing.cpp
 )
 
 target_include_directories(aircraft_core
